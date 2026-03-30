@@ -55,7 +55,7 @@ Passionate about *React, Tailwind CSS, GSAP,* and crafting modern UIs with smoot
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BhavanTech/BhavanTech/output/snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BhavanTech&show_icons=true&theme=react&hide_border=true&count_private=true" />
 </p>
 
 ---
