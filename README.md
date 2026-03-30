@@ -45,7 +45,8 @@ Passionate about *React, Tailwind CSS, GSAP,* and crafting modern UIs with smoot
 
 ## 📊 *GitHub Stats*
 
-div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BhavanTech&show_icons=true&theme=radical" /> 
+div align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=BhavanTech&show_icons=true&theme=radical" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavanTech&layout=compact&theme=radical" /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhavanTech&theme=radical" /> 
 <img src="https://github-profile-trophy.vercel.app/?username=BhavanTech&theme=darkhub&no-frame=true&column=4" /> 
