@@ -59,8 +59,8 @@ Passionate about *React, Tailwind CSS, GSAP,* and crafting modern UIs with smoot
 
   <img height="160em" src="https://github-profile-trophy.vercel.app/?username=BhavanTech&theme=darkhub&no-frame=true&column=4"/>
 
-  <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhavanTech&theme=react-dark" />
+ <p align="center">
+  <img src="https://ghchart.rshah.org/BhavanTech" />
 </p>
 
 </div>
