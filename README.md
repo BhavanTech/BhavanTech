@@ -34,7 +34,7 @@ Passionate about *React, Tailwind CSS, GSAP,* and crafting modern UIs with smoot
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Lenis](https://img.shields.io/badge/Lenis-000000?style=for-the-badge&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logoColor=blue)
 
 ### 🧰 *Tools & Platforms*
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
