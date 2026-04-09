@@ -8,7 +8,7 @@ BhavanTech/BhavanTech is a ✨ special ✨ repository because its README.md (thi
 </p>
 
 # 👋 Hi, I'm Bhavan Patil  
-### 🚀 Frontend Developer | React | FastAPI | Full Stack Enthusiast
+### 🚀 Software Developer | Full Stack Engineer | React • FastAPI • Scalable Systems
 
 I'm a Software Developer passionate about building scalable, high-performance applications with clean architecture and efficient code.  
 
