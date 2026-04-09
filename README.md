@@ -22,10 +22,11 @@ Currently exploring advanced full-stack development, backend optimization, and m
 
 ## 📌 *About Me*
 - 🧠 *Engineering Graduate (EXTC) from Atharva College of Engineering*
-- 🛠️ *Love building real-world projects (like real estate websites, studio portfolios)*
-- 🌟 *Currently experimenting with scroll-based effects and animation workflows*
-- 📱 *Optimizing everything for mobile — mobile menus, responsive layouts & more*
-- 🎯 *Goal: To create immersive frontend experiences with cutting-edge web tech*
+- 🚀 Software Developer with strong foundations in JavaScript & Python
+- 🌐 Building full-stack applications using React, FastAPI, PostgreSQL
+- ⚡ Focused on performance, scalability, and clean architecture
+- 🎯 Passionate about solving real-world problems through code
+- 📈 Continuously improving DSA, system design, and backend skills
 
 ---
 
