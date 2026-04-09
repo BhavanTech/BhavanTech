@@ -10,8 +10,13 @@ BhavanTech/BhavanTech is a ✨ special ✨ repository because its README.md (thi
 # 👋 Hi, I'm Bhavan Patil  
 ### 🚀 Frontend Developer | React | FastAPI | Full Stack Enthusiast
 
-I'm a *Frontend Developer* focused on building sleek, responsive, and animated web experiences.  
-Passionate about *React, Tailwind CSS, GSAP,* and crafting modern UIs with smooth scroll and interactions using **Lenis** and **GSAP**.
+I'm a Software Developer passionate about building scalable, high-performance applications with clean architecture and efficient code.  
+
+I work across both frontend and backend, using technologies like React, FastAPI, and PostgreSQL to develop full-stack solutions. I enjoy solving real-world problems, optimizing performance, and creating seamless user experiences.  
+
+With a strong foundation in JavaScript and Python, I focus on writing maintainable code and continuously improving my problem-solving and system design skills.  
+
+Currently exploring advanced full-stack development, backend optimization, and modern web architectures.
 
 ---
 
