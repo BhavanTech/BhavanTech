@@ -74,8 +74,7 @@ Currently exploring advanced full-stack development, backend optimization, and m
 ---
 
 ### 🎨 *Fun Fact*
-✨ I'm obsessed with adding scroll-based effects, parallax vibes, and animations that make websites feel alive!  
-Always exploring ways to blend UI/UX with storytelling through motion.
+✨ I enjoy turning complex problems into simple, scalable solutions and love optimizing applications for performance and efficiency.
 
 ---
 
