@@ -4,7 +4,7 @@ BhavanTech/BhavanTech is a ✨ special ✨ repository because its README.md (thi
 
 <!-- Banner -->
 <p align="center"> 
-  <img src="banter.png" alt="Hi, I'm Bhavan" /> 
+  <img src="banner.png" alt="Hi, I'm Bhavan" /> 
 </p>
 
 # 👋 Hi, I'm Bhavan Patil  
